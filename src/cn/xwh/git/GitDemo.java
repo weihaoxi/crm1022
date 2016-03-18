@@ -1,6 +1,4 @@
-/**
- * 
- */
+
 package cn.xwh.git;
 
 /**
@@ -10,5 +8,6 @@ package cn.xwh.git;
 public class GitDemo {
 	public static void main(String[] args) {
 		System.out.println("git hello 01");
+		System.out.println("git hello 02");
 	}
 }

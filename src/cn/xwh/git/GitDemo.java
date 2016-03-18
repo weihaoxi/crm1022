@@ -1,7 +1,7 @@
 /**
  * 
  */
-package crm1022;
+package cn.xwh.git;
 
 /**
  * @author Lenovo
